@@ -4,32 +4,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Projeto de Sustentabilidade do Açaí</title>
+    <title>Projeto de Sustentabilidade do Açaí</title>
     <style>
-        /* Adicione estilos aqui, se necessário */
+        /* Estilos CSS opcionais podem ser adicionados aqui */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        section {
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #f0f0f0;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
     </style>
 </head>
 <body>
-    <!-- Eco Açaí -->
-    <section id="eco-acai">
-        <h1>Eco Açaí</h1>
-        <p>Seu texto sobre sustentabilidade do açaí aqui...</p>
+    <!-- Seção sobre o Eco Açaí -->
+    <section>
+        <h2>Eco Açaí</h2>
+        <p>O açaí é um produto sustentável e muito consumido em Belém do Pará. É um produto que todos os paraenses adoram, mas seu descarte é irregular.</p>
     </section>
 
-    <!-- Imagem do Açaí -->
-    <section id="imagem-acai">
-        <img src="link_para_sua_imagem.jpg" alt="Imagem de um açaí">
-    </section>
+    <!-- Espaço em branco -->
+    <div style="height: 20px;"></div>
 
-    <!-- Sobre o Projeto -->
-    <section id="sobre-projeto">
-        <h2>Sobre o Meu Projeto</h2>
-        <p>Aqui você pode descrever brevemente o seu projeto...</p>
-    </section>
-
-    <!-- Botão para saber mais -->
-    <section id="botao-saber-mais">
-        <a href="link_para_mais_informacoes" target="_blank"><button>Saber Mais</button></a>
+    <!-- Seção sobre o Projeto -->
+    <section>
+        <h2>Meu Projeto</h2>
+        <p>Meu projeto consiste em ajudar o meio ambiente na melhoria do descarte do caroço do açaí, consistindo em criar lixeiras sustentáveis para que a cidade seja mais limpa, consequentemente menos lixo e menos poluição.</p>
     </section>
 </body>
 </html>
